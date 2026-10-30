@@ -15,7 +15,6 @@ results, report uncertainties that survive scrutiny, and probe models until I un
 | Project | What it is |
 |:--|:--|
 | [flow-matching-iaifi26](https://github.com/ameypg-git/flow-matching-iaifi26) | Flow matching written from scratch in PyTorch, exploring optimal-transport pairings and composed transports |
-| [XY-Model-BKT](https://github.com/ameypg-git/XY-Model-BKT) | Large-scale Monte Carlo study of a phase transition: three cross-validated samplers, Numba kernels, finite-size scaling |
 | [fine-graining-value-leakage](https://github.com/ameypg-git/fine-graining-value-leakage) | Decomposing a bias metric for large language models across 26 models, with bootstrap uncertainty |
 | [d1d5-bps-lifting](https://github.com/ameypg-git/d1d5-bps-lifting) | Which protected states in a holographic CFT survive deformation? Exact-in-N results from a Mathematica computer-algebra pipeline (arXiv:2610.36057; code available on request) |
 | [quant-finance-projects](https://github.com/ameypg-git/quant-finance-projects) | Portfolio optimization, option pricing and hedging under stochastic volatility |
